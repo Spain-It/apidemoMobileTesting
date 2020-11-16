@@ -1,7 +1,0 @@
-com\AndroidAutomation\Pages\ZeroLoginPage.class
-com\AndroidAutomation\Step_definitions\Apidemo.class
-com\AndroidAutomation\utilities\ConfigurationReader.class
-com\AndroidAutomation\utilities\Driver.class
-com\AndroidAutomation\runners\CukesRunner.class
-com\AndroidAutomation\Pages\View.class
-com\AndroidAutomation\Step_definitions\SearchStepDefs.class

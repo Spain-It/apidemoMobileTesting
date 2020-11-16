@@ -13,6 +13,7 @@ public class Apidemo {
         Thread.sleep(3000);
        view.preference.click();
     }
+
     @Given("click preDependencies button")
     public void click_pre_dependencies_button() throws InterruptedException {
         Thread.sleep(2000);

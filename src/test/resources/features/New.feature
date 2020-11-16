@@ -1,5 +1,6 @@
 Feature: view
-  Scenario: bvdfg
+  @list
+  Scenario: view
     Given click preference button
     And click preDependencies button
     And click wifi checkBox

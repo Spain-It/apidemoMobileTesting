@@ -1,4 +1,5 @@
 Feature: view
+  @list
   Scenario: bvdfg
     Given click preference button
     And click preDependencies button
